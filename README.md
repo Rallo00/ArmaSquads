@@ -1,6 +1,9 @@
 # ArmaSquads
 This C# library allows ArmaSquads users to manage their Arma 3 squadron by using ArmaSquads API.
 
+---- REQUISITES ----
+- .Net Framework SDK v4.5.1
+
 ---- HOW TO USE ----
 
 - Add the provided DLL file as Reference into your C# project.
